@@ -60,7 +60,7 @@ class Graph {
 }
 
 // Example usage:
-const graph = new Graph();
+export const graph = new Graph();
 
 graph.addNode("d1");
 
